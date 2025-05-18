@@ -1,4 +1,4 @@
-This repository contains the final project we completed for the Big Data Analytics course. The goal of the project was to perform both Exploratory Data Analysis (EDA) and more advanced analytical tasks using Apache Spark. We worked with a large dataset of Amazon book reviews around 3 million in total.
+This repository contains the final project we completed for the Big Data Analytics course (our team consists of Katerina Loizidi, Marios Christodoulou, Theos Kounias, and Neophytos Stylianou). The goal of the project was to perform both Exploratory Data Analysis (EDA) and more advanced analytical tasks using Apache Spark. We worked with a large dataset of Amazon book reviews around 3 million in total.
 
 Each record in the dataset includes a user ID, book ID, rating, review text, and summary, along with metadata like book title, author, category, and publication date. Since the dataset contains a mix of numerical, categorical, and text data, it was a great fit for the types of analysis we wanted to explore.
 
